@@ -5,3 +5,10 @@
 
 协助者fork项目，如果在pull request时有冲突，则显示
 This branch has conflicts that must be resolved
+
+## github fork后怎样再更新
+进pull request,->switching the base->Create pull request->Commit->Merge pull request
+
+
+
+
